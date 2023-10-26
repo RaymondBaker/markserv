@@ -15,6 +15,11 @@
 	<img alt="Markserv Demo" src="media/markserv-demo.gif" width="100%">
 </p>
 
+## How to Develop
+- git clone 
+- npm install
+- `cd <above intended wiki> && <clone location>/lib/cli <wiki location>`
+
 ## :sparkles: Features
 
 - Markdown content rendered as HTML
